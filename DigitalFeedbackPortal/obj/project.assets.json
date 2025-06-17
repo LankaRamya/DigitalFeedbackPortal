@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\koush\\.nuget\\packages\\": {},
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\New folder (4)\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
       "projectName": "DigitalFeedbackPortal",
-      "projectPath": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
-      "packagesPath": "C:\\Users\\koush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\obj\\",
+      "projectPath": "C:\\Users\\LENOVO\\Downloads\\New folder (4)\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVO\\Downloads\\New folder (4)\\DigitalFeedbackPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\koush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
