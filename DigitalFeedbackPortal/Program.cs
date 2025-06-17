@@ -57,7 +57,7 @@ namespace DigitalFeedbackPortal
                 Console.WriteLine("An error occurred. Please check error_log.txt.");
             }
 
-            Console.WriteLine("Program completed with error logging.");
+            
         }
     }
 }

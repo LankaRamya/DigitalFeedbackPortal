@@ -13,3 +13,18 @@ C:\Users\LENOVO\Downloads\New folder (4)\DigitalFeedbackPortal\obj\Debug\net8.0\
 C:\Users\LENOVO\Downloads\New folder (4)\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.pdb
 C:\Users\LENOVO\Downloads\New folder (4)\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.genruntimeconfig.cache
 C:\Users\LENOVO\Downloads\New folder (4)\DigitalFeedbackPortal\obj\Debug\net8.0\ref\DigitalFeedbackPortal.dll
+C:\sprint\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.exe
+C:\sprint\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.deps.json
+C:\sprint\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.runtimeconfig.json
+C:\sprint\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.dll
+C:\sprint\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.pdb
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.AssemblyInfoInputs.cache
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.AssemblyInfo.cs
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.csproj.CoreCompileInputs.cache
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.sourcelink.json
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.dll
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\refint\DigitalFeedbackPortal.dll
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.pdb
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.genruntimeconfig.cache
+C:\sprint\DigitalFeedbackPortal\obj\Debug\net8.0\ref\DigitalFeedbackPortal.dll
