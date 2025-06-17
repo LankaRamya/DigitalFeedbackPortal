@@ -36,7 +36,7 @@ namespace DigitalFeedbackPortal
                 do
                 {
                     Console.Write("Enter choice (1-5): ");
-                } while (!int.TryParse(Console.ReadLine(), out selectedIndex) || selectedIndex < 1 || selectedIndex > categories.Length);
+                } while (!int.TryParse(Console.ReadLine(), out selectedIndex) || selectedIndex < 1 && selectedIndex > categories.Length);
 
                 Category selectedCategory = categories[selectedIndex - 1];
 

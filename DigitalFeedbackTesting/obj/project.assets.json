@@ -998,23 +998,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Deepthi\\.nuget\\packages\\": {},
+    "C:\\Users\\Lanka Ramya\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sprint\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj",
+      "projectUniqueName": "C:\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj",
       "projectName": "DigitalFeedbackTesting",
-      "projectPath": "C:\\sprint\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj",
-      "packagesPath": "C:\\Users\\Deepthi\\.nuget\\packages\\",
-      "outputPath": "C:\\sprint\\DigitalFeedbackTesting\\obj\\",
+      "projectPath": "C:\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj",
+      "packagesPath": "C:\\Users\\Lanka Ramya\\.nuget\\packages\\",
+      "outputPath": "C:\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Deepthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lanka Ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1029,8 +1029,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\sprint\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
-              "projectPath": "C:\\sprint\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj"
+            "C:\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
+              "projectPath": "C:\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj"
             }
           }
         }
