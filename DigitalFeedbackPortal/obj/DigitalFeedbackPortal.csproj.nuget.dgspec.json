@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {}
+    "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {}
   },
   "projects": {
-    "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
+    "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+        "projectUniqueName": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
         "projectName": "DigitalFeedbackPortal",
-        "projectPath": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
-        "packagesPath": "C:\\Users\\Lanka Ramya\\.nuget\\packages\\",
-        "outputPath": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\obj\\",
+        "projectPath": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+        "packagesPath": "C:\\Users\\koush\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lanka Ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\koush\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

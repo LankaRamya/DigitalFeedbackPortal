@@ -1,26 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\digitalfeedbackportal\\digitalfeedbackportal\\utilities\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:utilities\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\users\\koush\\desktop\\new folder\\digitalfeedbackportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\digitalfeedbackportal\\digitalfeedbackportal\\services\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:services\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\users\\koush\\desktop\\new folder\\digitalfeedbackportal\\utilities\\feedbackvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:utilities\\feedbackvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\digitalfeedbackportal\\digitalfeedbackportal\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\users\\koush\\desktop\\new folder\\digitalfeedbackportal\\utilities\\feedbackcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:utilities\\feedbackcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\digitalfeedbackportal\\digitalfeedbackportal\\digitalfeedbackportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\users\\koush\\desktop\\new folder\\digitalfeedbackportal\\services\\feedbackservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:services\\feedbackservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\users\\koush\\desktop\\new folder\\digitalfeedbackportal\\digitalfeedbackportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:digitalfeedbackportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|c:\\digitalfeedbackportal\\digitalfeedbackportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,84 +33,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class3.cs",
-              "DocumentMoniker": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Utilities\\Class3.cs",
-              "RelativeDocumentMoniker": "Utilities\\Class3.cs",
-              "ToolTip": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Utilities\\Class3.cs",
-              "RelativeToolTip": "Utilities\\Class3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FeedbackCategories.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\Utilities\\FeedbackCategories.cs",
+              "RelativeDocumentMoniker": "Utilities\\FeedbackCategories.cs",
+              "ToolTip": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\Utilities\\FeedbackCategories.cs",
+              "RelativeToolTip": "Utilities\\FeedbackCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:48:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackValidator.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\Utilities\\FeedbackValidator.cs",
+              "RelativeDocumentMoniker": "Utilities\\FeedbackValidator.cs",
+              "ToolTip": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\Utilities\\FeedbackValidator.cs",
+              "RelativeToolTip": "Utilities\\FeedbackValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T14:21:41.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class2.cs",
-              "DocumentMoniker": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Services\\Class2.cs",
-              "RelativeDocumentMoniker": "Services\\Class2.cs",
-              "ToolTip": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Services\\Class2.cs",
-              "RelativeToolTip": "Services\\Class2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FeedbackServices.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\Services\\FeedbackServices.cs",
+              "RelativeDocumentMoniker": "Services\\FeedbackServices.cs",
+              "ToolTip": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\Services\\FeedbackServices.cs",
+              "RelativeToolTip": "Services\\FeedbackServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T14:21:29.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Class1.cs",
-              "RelativeDocumentMoniker": "Models\\Class1.cs",
-              "ToolTip": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Class1.cs",
-              "RelativeToolTip": "Models\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T14:21:16.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DigitalFeedbackPortal",
-              "DocumentMoniker": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+              "DocumentIndex": 4,
+              "Title": "DigitalFeedbackPortal.csproj",
+              "DocumentMoniker": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
               "RelativeDocumentMoniker": "DigitalFeedbackPortal.csproj",
-              "ToolTip": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+              "ToolTip": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
               "RelativeToolTip": "DigitalFeedbackPortal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-17T14:19:16.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-06-17T14:19:16.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\koush\\Desktop\\New folder\\DigitalFeedbackPortal\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T14:18:50.344Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Class1.cs",
+              "ToolTip": "C:\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:21:16.054Z"
             }
           ]
         }
