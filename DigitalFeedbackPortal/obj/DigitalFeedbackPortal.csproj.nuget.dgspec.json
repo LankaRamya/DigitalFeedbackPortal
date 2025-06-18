@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {}
+    "D:\\feedbackservice\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
+    "D:\\feedbackservice\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+        "projectUniqueName": "D:\\feedbackservice\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
         "projectName": "DigitalFeedbackPortal",
-        "projectPath": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
-        "packagesPath": "C:\\Users\\Lahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\obj\\",
+        "projectPath": "D:\\feedbackservice\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+        "packagesPath": "C:\\Users\\meher\\.nuget\\packages\\",
+        "outputPath": "D:\\feedbackservice\\DigitalFeedbackPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\meher\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lahar\\source\\repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\feedbackservice\\DigitalFeedbackPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|d:\\feedbackservice\\digitalfeedbackportal\\services\\feedbackfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B3028B-FAE6-4F08-BA8B-8833E216B852}|DigitalFeedbackPortal.csproj|solutionrelative:services\\feedbackfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedbackFilterService.cs",
+              "DocumentMoniker": "D:\\feedbackservice\\DigitalFeedbackPortal\\Services\\FeedbackFilterService.cs",
+              "RelativeDocumentMoniker": "Services\\FeedbackFilterService.cs",
+              "ToolTip": "D:\\feedbackservice\\DigitalFeedbackPortal\\Services\\FeedbackFilterService.cs",
+              "RelativeToolTip": "Services\\FeedbackFilterService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:21:36.693Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
