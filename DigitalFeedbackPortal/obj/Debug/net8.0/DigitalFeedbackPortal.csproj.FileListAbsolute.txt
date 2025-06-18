@@ -43,3 +43,18 @@ C:\New folder\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\refin
 C:\New folder\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.pdb
 C:\New folder\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.genruntimeconfig.cache
 C:\New folder\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\ref\DigitalFeedbackPortal.dll
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.exe
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.deps.json
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.runtimeconfig.json
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.dll
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\bin\Debug\net8.0\DigitalFeedbackPortal.pdb
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.AssemblyInfoInputs.cache
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.AssemblyInfo.cs
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.csproj.CoreCompileInputs.cache
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.sourcelink.json
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.dll
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\refint\DigitalFeedbackPortal.dll
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.pdb
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\DigitalFeedbackPortal.genruntimeconfig.cache
+C:\Users\Lahar\Source\Repos\DigitalFeedbackPortal\DigitalFeedbackPortal\obj\Debug\net8.0\ref\DigitalFeedbackPortal.dll

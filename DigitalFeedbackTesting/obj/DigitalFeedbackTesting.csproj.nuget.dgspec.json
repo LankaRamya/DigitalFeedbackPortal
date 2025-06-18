@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sprint\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj": {}
+    "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj": {}
   },
   "projects": {
-    "C:\\sprint\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
+    "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sprint\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+        "projectUniqueName": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
         "projectName": "DigitalFeedbackPortal",
-        "projectPath": "C:\\sprint\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
-        "packagesPath": "C:\\Users\\Deepthi\\.nuget\\packages\\",
-        "outputPath": "C:\\sprint\\DigitalFeedbackPortal\\obj\\",
+        "projectPath": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj",
+        "packagesPath": "C:\\Users\\Lahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Deepthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\sprint\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj": {
+    "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sprint\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj",
         "projectName": "DigitalFeedbackTesting",
-        "projectPath": "C:\\sprint\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj",
-        "packagesPath": "C:\\Users\\Deepthi\\.nuget\\packages\\",
-        "outputPath": "C:\\sprint\\DigitalFeedbackTesting\\obj\\",
+        "projectPath": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackTesting\\DigitalFeedbackTesting.csproj",
+        "packagesPath": "C:\\Users\\Lahar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Deepthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\sprint\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
-                "projectPath": "C:\\sprint\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj"
+              "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj": {
+                "projectPath": "C:\\Users\\Lahar\\Source\\Repos\\DigitalFeedbackPortal\\DigitalFeedbackPortal\\DigitalFeedbackPortal.csproj"
               }
             }
           }
@@ -156,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

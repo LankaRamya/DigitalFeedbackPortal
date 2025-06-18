@@ -21,6 +21,10 @@ namespace DigitalFeedbackPortal.Services
         {
             return feedbacks.Where(f => string.Equals(f.Content, contant, StringComparison.OrdinalIgnoreCase));
         }
+        public IEnumerable<FeedbackEntry> FilterByEmployee(List<FeedbackEntry> entries, int employeeId)
+        {
+            return entries.Where(e => e.SubmittedBy.EmployeeId == employeeId);
+        }
 
         public void Displayfeedback(IEnumerable<FeedbackEntry> feedbacks)
         {

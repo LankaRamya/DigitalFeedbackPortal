@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalFeedbackTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a02e0c1a0b01276294deecb2e53cd8668c18a95e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9327c280bdfee0e9c8449e0c6ada3e98bee5f6c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalFeedbackTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalFeedbackTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
